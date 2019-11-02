@@ -49,7 +49,7 @@ public class Ex6_InsertElementArray {
 
         System.out.println("Array A after inserting X : ");
         for (int i : b) {
-            System.out.print(i + "; ");
+            System.out.print(i + " ");
         }
         scanner.close();
     }
