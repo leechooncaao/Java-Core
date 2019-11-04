@@ -40,7 +40,7 @@ public class Ex6_InsertElementArray {
             b[++index] = a[i];
         }
 
-        //Printing array A and the result // test
+        //Printing array A and the result // test Github
         System.out.println("Array A before inserting X : ");
         for (int i : a) {
             System.out.print(i + " ");
@@ -49,7 +49,7 @@ public class Ex6_InsertElementArray {
 
         System.out.println("Array A after inserting X : ");
         for (int i : b) {
-            System.out.print(i + " ");
+            System.out.print(i + " ; ");
         }
         scanner.close();
     }
